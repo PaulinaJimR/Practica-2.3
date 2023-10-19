@@ -519,3 +519,8 @@ while True:
 Video de funcionamiento
 
 [![Alt text](https://img.youtube.com/vi/v=EKv0EQlmn2s&ab_channel=PAULINAJIMENEZRIVERA/0.jpg)](https://www.youtube.com/watch?v=3rYy7SnFmPQ&ab_channel=PAULINAJIMENEZRIVERA)
+
+Imágenes de conexiones
+![](IMG-9413.png)
+![](IMG-9414.png)
+![](IMG-9415.png)
